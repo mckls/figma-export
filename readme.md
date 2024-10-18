@@ -1,6 +1,6 @@
 # figma-export
 
-This is UI for [fimga-extractor](https://github.com/javierarce/figma-extractor). It asks for the figma link, the desired export format and also saves your figma access token locally.
+This is an cli-UI for [fimga-extractor](https://github.com/javierarce/figma-extractor). It asks for the figma link, the desired export format and also saves your figma access token locally.
 
 ## Dependencies
 
